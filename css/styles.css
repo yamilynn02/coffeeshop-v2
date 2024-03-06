@@ -1,0 +1,54 @@
+header {
+    background-color: black;
+    height: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+header .center {
+    display: inline-block;
+    margin: 0 auto;
+    max-width: 20%;
+}
+
+footer {
+    padding: 2rem;
+    background-color: #240C42;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #D995F6;
+}
+
+#beans {
+    background-color: #D995F6;
+}
+
+nav {
+    background-color: #D995F6;
+    color: white
+}
+.button {
+    background-color: #D995F6;
+    color: white;
+    border: none;
+}
+form {
+    background-color:  #D995F6;
+}
+
+h1, h2 {
+    font-family: "Indie Flower", cursive;
+}
+
+p {
+    font-family: "Montserrat Alternates", "Open Sans", sans-serif;
+}
